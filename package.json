@@ -7,7 +7,7 @@
     "react-dom": "^18.0.0",
     "react-scripts": "^5.0.1",
     "react-chessboard": "^2.2.0",
-    "chess.js": "^2.1.0",
+    "chess.js": "^1.0.0",
     "axios": "^1.5.0"
   },
   "scripts": {
